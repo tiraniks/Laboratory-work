@@ -1,0 +1,10 @@
+D:\MyProgram\Modul WF\Modul WF\bin\Debug\Modul WF.exe.config
+D:\MyProgram\Modul WF\Modul WF\bin\Debug\Modul WF.exe
+D:\MyProgram\Modul WF\Modul WF\bin\Debug\Modul WF.pdb
+D:\MyProgram\Modul WF\Modul WF\obj\Debug\Modul WF.csprojAssemblyReference.cache
+D:\MyProgram\Modul WF\Modul WF\obj\Debug\Modul_WF.Form1.resources
+D:\MyProgram\Modul WF\Modul WF\obj\Debug\Modul_WF.Properties.Resources.resources
+D:\MyProgram\Modul WF\Modul WF\obj\Debug\Modul WF.csproj.GenerateResource.cache
+D:\MyProgram\Modul WF\Modul WF\obj\Debug\Modul WF.csproj.CoreCompileInputs.cache
+D:\MyProgram\Modul WF\Modul WF\obj\Debug\Modul WF.exe
+D:\MyProgram\Modul WF\Modul WF\obj\Debug\Modul WF.pdb
