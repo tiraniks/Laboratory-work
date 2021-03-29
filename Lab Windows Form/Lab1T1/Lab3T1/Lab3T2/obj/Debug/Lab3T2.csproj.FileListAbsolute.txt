@@ -1,0 +1,10 @@
+D:\MyProgram\Lab3T1\Lab3T2\bin\Debug\Lab3T2.exe.config
+D:\MyProgram\Lab3T1\Lab3T2\bin\Debug\Lab3T2.exe
+D:\MyProgram\Lab3T1\Lab3T2\bin\Debug\Lab3T2.pdb
+D:\MyProgram\Lab3T1\Lab3T2\obj\Debug\Lab3T2.csprojAssemblyReference.cache
+D:\MyProgram\Lab3T1\Lab3T2\obj\Debug\Lab3T2.Form1.resources
+D:\MyProgram\Lab3T1\Lab3T2\obj\Debug\Lab3T2.Properties.Resources.resources
+D:\MyProgram\Lab3T1\Lab3T2\obj\Debug\Lab3T2.csproj.GenerateResource.cache
+D:\MyProgram\Lab3T1\Lab3T2\obj\Debug\Lab3T2.csproj.CoreCompileInputs.cache
+D:\MyProgram\Lab3T1\Lab3T2\obj\Debug\Lab3T2.exe
+D:\MyProgram\Lab3T1\Lab3T2\obj\Debug\Lab3T2.pdb
