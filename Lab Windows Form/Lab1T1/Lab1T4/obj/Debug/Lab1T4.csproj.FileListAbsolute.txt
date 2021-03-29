@@ -1,0 +1,9 @@
+D:\MyProgram\Lab1T1\Lab1T4\bin\Debug\Lab1T4.exe.config
+D:\MyProgram\Lab1T1\Lab1T4\bin\Debug\Lab1T4.exe
+D:\MyProgram\Lab1T1\Lab1T4\bin\Debug\Lab1T4.pdb
+D:\MyProgram\Lab1T1\Lab1T4\obj\Debug\Lab1T4.Form1.resources
+D:\MyProgram\Lab1T1\Lab1T4\obj\Debug\Lab1T4.Properties.Resources.resources
+D:\MyProgram\Lab1T1\Lab1T4\obj\Debug\Lab1T4.csproj.GenerateResource.cache
+D:\MyProgram\Lab1T1\Lab1T4\obj\Debug\Lab1T4.csproj.CoreCompileInputs.cache
+D:\MyProgram\Lab1T1\Lab1T4\obj\Debug\Lab1T4.exe
+D:\MyProgram\Lab1T1\Lab1T4\obj\Debug\Lab1T4.pdb
