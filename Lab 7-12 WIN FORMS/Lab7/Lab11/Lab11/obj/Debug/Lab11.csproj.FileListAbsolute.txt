@@ -1,0 +1,5 @@
+D:\MyProgram\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+D:\MyProgram\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+D:\MyProgram\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+D:\MyProgram\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+D:\MyProgram\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
